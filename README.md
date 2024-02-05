@@ -58,6 +58,8 @@ The goal is to build a model that can classify each review as positive or negati
 + Open your command prompt and navigate to the directory containing your codes.
 + Run streamlit by writing streamlit run sentimentapp.py. Shortly, a URL will be provided. You can run the app locally on your PC.
 
+![app image 2](https://github.com/miraclenwadiaru/Sentiment-Analysis-for-Product-Reviews/assets/128008498/f6e413f3-7d35-47f4-9507-34988a728b6e)
+
 ![app image 3](https://github.com/miraclenwadiaru/Sentiment-Analysis-for-Product-Reviews/assets/128008498/91f27062-67a7-4ada-b7c1-a11fdd77f21a)
 
 ## Conclusion
