@@ -58,6 +58,8 @@ The goal is to build a model that can classify each review as positive or negati
 + Open your command prompt and navigate to the directory containing your codes.
 + Run streamlit by writing streamlit run sentimentapp.py. Shortly, a URL will be provided. You can run the app locally on your PC.
 
+![app image 3](https://github.com/miraclenwadiaru/Sentiment-Analysis-for-Product-Reviews/assets/128008498/91f27062-67a7-4ada-b7c1-a11fdd77f21a)
+
 ## Conclusion
 In conclusion, the aim of the project was achieved. The integration of the random forest classifier model with Streamlit provided a user-friendly interface for interpreting customers' sentiments.
 
